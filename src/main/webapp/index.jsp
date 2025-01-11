@@ -11,7 +11,7 @@
 
 
 <a href="customer-save.jsp">Add new Customer</a><br><br> <%--ahref ekata enne servlet eke value eka--%>
-<a href="customer-list">View All Customer</a><br><br>
+<a href="customer-list">View All Customer</a><br><br> <%--methana .jsp dammoth get endpoint eka call karanna widiyak nathiwenawa eka hinda mulin end point ekata gihin e thanain get ekedi page eka load karanawa dispatcher eken..--%>
 <a href="customer-delete.jsp">Delete Customer</a><br><br>
 <a href="customer-update.jsp">Update Customer</a><br><br>
 
